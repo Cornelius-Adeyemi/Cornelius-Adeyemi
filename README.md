@@ -1,5 +1,4 @@
-- 👋 <strong>Hi, I’m @Cornelius-Adeyemi. I'm a dedicated and diligent front-end react/node.js developer whose goal is to become a full stack react  develper(web and mobile). I'm meticulous
-self-motivated with positive attitude towards my career and life.</strong>
+- 👋 <strong>I am a results-driven, analytical, and self-motivated Java developer with solid experience in designing and implementing efficient, scalable, and reliable server-side applications.  I’m dynamic, ready to learn, and a fast learner. I have excellent problem-solving and debugging skills. I’m seeking a challenging role to utilize my skills as a software engineer to contribute to the success of a progressive organization.</strong>
 
  <ul>What Are my <strong>Strenghts</strong>
  <li>Adaptation</li>
